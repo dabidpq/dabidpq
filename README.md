@@ -1,10 +1,16 @@
-# Hi, I'm David García ☁️
+<div align="center">
 
-> *Cloud-minded. Systems-driven.*
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B4D8&height=200&section=header&text=David%20García&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud-minded.%20Systems-driven.&descAlignY=55&descSize=18&descColor=ffffff)
 
-🎓 Systems Engineering student · Universidad Latina de Costa Rica  
+</div>
+
+<div align="center">
+
+🎓 Systems Engineering · Universidad Latina de Costa Rica  
 ☁️ Aspiring Cloud Engineer · Azure & AWS  
 🌍 Costa Rica
+
+</div>
 
 ---
 
@@ -51,13 +57,35 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dabidpq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=00B4D8"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidpq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=dabidpq&theme=tokyonight&hide_border=true&background=0d1117&ring=0078D4&fire=00B4D8&currStreakLabel=0078D4)
+
+</div>
+
+---
+
 ## 📫 Contact
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-garcia-700a65303)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:garcilladavid@gmail.com)
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dabidpq&color=0078D4&style=flat-square" alt="Profile views"/>
-</p>
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0078D4&height=100&section=footer)
+
+</div>
