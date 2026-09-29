@@ -73,11 +73,17 @@ Open to internships and junior cloud / DevOps roles.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Profile Insights
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dabidpq&theme=react&bg_color=0d1117&color=00B4D8&line=0078D4&point=ffffff&area=true&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=dabidpq&style=flat-square&color=0078D4&label=Profile+Views)
+
+<br>
+
+| Projects | Cloud Focus | Currently Learning |
+|:--------:|:-----------:|:------------------:|
+| 4 | Azure · AWS | AZ-900 · AWS CP · IaC |
 
 </div>
 ---
