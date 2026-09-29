@@ -73,17 +73,14 @@ Open to internships and junior cloud / DevOps roles.
 
 ---
 
-## 📊 Profile Insights
+## 🎯 Current Focus
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dabidpq&style=flat-square&color=0078D4&label=Profile+Views)
-
-<br>
-
-| Projects | Cloud Focus | Currently Learning |
-|:--------:|:-----------:|:------------------:|
-| 4 | Azure · AWS | AZ-900 · AWS CP · IaC |
+| 🔥 Priority | 📚 Studying | 🛠️ Building |
+|:-----------:|:-----------:|:-----------:|
+| Cloud certifications | AZ-900 · AWS Cloud Practitioner | Cloud Cost Monitor |
+| Infrastructure as Code | Terraform / Bicep | Practical Azure & AWS projects |
 
 </div>
 ---
