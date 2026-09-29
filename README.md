@@ -51,7 +51,7 @@ Open to internships and junior cloud / DevOps roles.
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [☁️ Cloud Cost Monitor](https://github.com/dabidpq/cloud-cost-monitor) | Real-time Azure & AWS pricing dashboard with cost insights | Python · Flask · REST APIs | 🚧 In Progress |
+| [☁️ Cloud Cost Monitor](https://github.com/dabidpq/cloud-cost-monitor) | Real-time Azure & AWS pricing dashboard with cost insights | Python · Flask · REST APIs | ✅ Done |
 | [💱 BCCR-Cambio](https://github.com/dabidpq/BCCR-Cambio) | Exchange rate query tool using Costa Rica's Central Bank API | Python | ✅ Done |
 | [🏛️ Museo](https://github.com/dabidpq/Museo) | Interactive museum simulation with artwork display | HTML · CSS | ✅ Done |
 | [👤 GestionUsuarios](https://github.com/dabidpq/GestionUsuarios) | Simple user management system | HTML · JavaScript | ✅ Done |
