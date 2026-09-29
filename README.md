@@ -73,22 +73,13 @@ Open to internships and junior cloud / DevOps roles.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dabidpq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=00B4D8"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidpq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4"/>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dabidpq&theme=react&bg_color=0d1117&color=00B4D8&line=0078D4&point=ffffff&area=true&hide_border=true)
 
 </div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=dabidpq&theme=tokyonight&hide_border=true&background=0d1117&ring=0078D4&fire=00B4D8&currStreakLabel=0078D4)
-
-</div>
-
 ---
 
 ## 📫 Contact
