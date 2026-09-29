@@ -48,12 +48,16 @@
 
 ## 📈 Currently Learning
 
-```text
-☁️  Azure Fundamentals (AZ-900)     ████████░░  80%
-☁️  AWS Cloud Practitioner           ██████░░░░  60%
-🐍  Python & Flask                   ████████░░  80%
-🔧  Infrastructure as Code           ███░░░░░░░  30%
-```
+<div align="center">
+
+| | Skill | Progress |
+|--|-------|----------|
+| ☁️ | Azure Fundamentals (AZ-900) | ![80%](https://img.shields.io/badge/Progress-80%25-0078D4?style=flat-square&labelColor=0d1117) |
+| ☁️ | AWS Cloud Practitioner | ![60%](https://img.shields.io/badge/Progress-60%25-FF9900?style=flat-square&labelColor=0d1117) |
+| 🐍 | Python & Flask | ![80%](https://img.shields.io/badge/Progress-80%25-3776AB?style=flat-square&labelColor=0d1117) |
+| 🔧 | Infrastructure as Code | ![30%](https://img.shields.io/badge/Progress-30%25-00B4D8?style=flat-square&labelColor=0d1117) |
+
+</div>
 
 ---
 
