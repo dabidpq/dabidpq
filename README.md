@@ -61,6 +61,7 @@ Open to internships and junior cloud / DevOps roles.
 | [☁️ Cloud Cost Monitor](https://github.com/dabidpq/cloud-cost-monitor) | Real-time Azure & AWS pricing dashboard with cost insights | Python · Flask · REST APIs | ✅ Done |
 | [💱 BCCR-Cambio](https://github.com/dabidpq/BCCR-Cambio) | Exchange rate tool using Costa Rica's Central Bank API | Python | ✅ Done |
 | [🧹 Cloud Idle Cleaner](https://github.com/dabidpq/cloud-idle-cleaner) | CLI that scans Azure subscriptions for idle resources (unattached disks, unused IPs, stopped VMs) | Python · Azure SDK · Typer · Rich | ✅ Done |
+| [📡 API Health Monitor](https://github.com/dabidpq/api-health-monitor) | CLI that monitors APIs for uptime, latency, content changes and generates an HTML dashboard | Python · Typer · Rich · requests | ✅ Done |
 
 ---
 
